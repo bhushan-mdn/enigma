@@ -41,3 +41,10 @@ $ ./enigma -n 5 -t passphrase -w "-" -c -N
 Clinic-Carefully-Trimming-Dislodge-Surplus2
 ```
 
+## Future Plans
+
+- [ ] Add a quiet mode switch for piping into system clipboard using `xclip -selection clipboard` or `pbcopy`
+- [ ] Write a Makefile
+- [ ] Improve error handling
+- [ ] Clean up names
+- [ ] Use those fancy cli libraries like urfave/cli or spf13/cobra
