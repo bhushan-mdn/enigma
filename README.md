@@ -2,6 +2,8 @@
 
 A simple cli password generator. Inspired from [Bitwarden's Free Password Generator](https://bitwarden.com/password-generator/#password-generator). Not suitable for production. More of a thought experiment. Entirely non-vibe-coded.
 
+<img width="960" height="702" alt="image" src="https://github.com/user-attachments/assets/38c9fe23-9996-4f31-8e7e-0942d4f57f53" />
+
 ## Usage
 
 Build:
